@@ -1,18 +1,4 @@
-```
-# 🚀 Projeto Full Stack com Docker
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?
-style=for-the-badge&logo=docker&logoColor=white)](https://
-www.docker.com/)
-[![React](https://img.shields.io/badge/React-20232A?
-style=for-the-badge&logo=react&logoColor=61DAFB)](https://
-reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?
-style=for-the-badge&logo=node.js&logoColor=white)](https://
-nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?
-style=for-the-badge&logo=mongodb&logoColor=white)](https://
-www.mongodb.com/)
 
 ## 📋 Sobre o Projeto
 
@@ -43,7 +29,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone (https://github.com/lucasjerhan/projeto-fullstack-docker.git)
    cd PROJETOFINAL
 ```
 2. Inicie os containers:
